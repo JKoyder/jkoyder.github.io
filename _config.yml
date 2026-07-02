@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: Marcus' homepage
-description: Bookmark this to keep an eye on my project updates!
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+title: Marcus' Homepage
+description: Below is a demonstration of my best programming work! (PLACEHOLDER)
+plugins: jekyll-include-cache
