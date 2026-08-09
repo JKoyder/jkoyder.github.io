@@ -23,7 +23,7 @@ repository               : "jkoyder/jkoyder.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  #avatar           : "profile.png"
+  avatar           : "profile.png"
   name             : "John Koyder"
   #pronouns         : # example: "she/her"  
   bio              : "Welcome to my ePortfolio. This website will highlight my best work within the Computer Science field."
