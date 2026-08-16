@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "welcome to my ePortfolio"
+title: "Progress in Computer Science"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,10 @@ redirect_from:
 ---
 
 Through the development of this ePortfolio I have been able to showcase my strengths in the Computer Science field. The projects contained in this portfolio, which are my best work to date, were carefully selected in a way where I would be challenged to solve complex problems. I like to think that challenging myself in these ways has strengthened my skills as a developer and pushed me towards a better understanding of the development process. 
+
 Outside of this portfolio, I have maintained this mindset within my coursework and personal projects. One notable example occurred during a mobile application course where I was instructed to create an Android inventory application that would allow items to be added, removed, or updated to a SQLite database. While access control was an important aspect of this project, I opted to enhance my application through the creation of three distinct accounts, each possessing unique UI and functionality. The app would come with an Administrator and Manager account where administrators could add, update, or delete users and managers could add, update, or delete items. The administrator account could create manager and basic access accounts that would then be granted their privileges on login. While this application lacked the depth seen in retail inventory apps, I learned a lot about authentication and authorization (and databases) by choosing to create various users for my application. This project may not have been as valuable to me if I had not challenged myself in this way.  
+
 Another example of this practice is seen in my Flappy Owl project. While this was something I simply made for fun, I continued to challenge myself during the design and development process. The game’s nature was nearly identical to that of Flappy Bird, that is you play as a bird and flap to get through obstacles. If you hit these obstacles, you fail. However, I opted to create the game from scratch, including most of the assets used in the original game. This meant I had to create replacement assets for the bird, pipes, background, etc. I also had to account for memory management during development, which was a lesson that encompasses most applications. Specifically, I had to consider what to do with obstacles after they were done being used. I opted for a type of object pooling where obstacles that disappear off screen are reset and used in the next batch of obstacles. This had an obvious impact on the performance of the app, going from large delays when creating an obstacle to nearly seamless transitions. 
+
 From this and other work, I have honed my skills in software design and engineering, algorithms and data structures, databases, security, and team collaboration. I have created several applications that employ different architectures, APIs, and libraries after careful consideration of requirements. I have worked with arrays, hash tables, binary search trees, and other data structures to store and retrieve data while keeping in mind the runtime complexity of these tasks. I have linked applications to SQL and NoSQL databases for the retrieval, creation, and modification of data. I have implemented best security practices such as password encryption, data abstraction, authentication, and authorization. Finally, I have communicated with my professors and peers to identify ideal solutions to problems encountered during development. 
 
