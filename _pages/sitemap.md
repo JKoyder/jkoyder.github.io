@@ -9,7 +9,6 @@ author_profile: true
 
 A list of all the pages found on the site.
 
-<h2>Pages</h2>
 {% for post in site.pages %}
   {% include archive-single.html %}
 {% endfor %}
